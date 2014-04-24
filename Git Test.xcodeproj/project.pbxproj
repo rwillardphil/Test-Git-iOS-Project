@@ -18,6 +18,7 @@
 		51CE747B1908CB3E00752660 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 51CE747A1908CB3E00752660 /* Default-568h@2x.png */; };
 		51CE747E1908CB3E00752660 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51CE747C1908CB3E00752660 /* MainStoryboard.storyboard */; };
 		51CE74811908CB3E00752660 /* RWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51CE74801908CB3E00752660 /* RWViewController.m */; };
+		51CE74891908CEEF00752660 /* RWTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 51CE74881908CEEF00752660 /* RWTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		51CE747D1908CB3E00752660 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		51CE747F1908CB3E00752660 /* RWViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RWViewController.h; sourceTree = "<group>"; };
 		51CE74801908CB3E00752660 /* RWViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RWViewController.m; sourceTree = "<group>"; };
+		51CE74871908CEEF00752660 /* RWTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RWTest.h; sourceTree = "<group>"; };
+		51CE74881908CEEF00752660 /* RWTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RWTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				51CE747C1908CB3E00752660 /* MainStoryboard.storyboard */,
 				51CE747F1908CB3E00752660 /* RWViewController.h */,
 				51CE74801908CB3E00752660 /* RWViewController.m */,
+				51CE74871908CEEF00752660 /* RWTest.h */,
+				51CE74881908CEEF00752660 /* RWTest.m */,
 				51CE746B1908CB3E00752660 /* Supporting Files */,
 			);
 			path = "Git Test";
@@ -177,6 +182,7 @@
 				51CE74711908CB3E00752660 /* main.m in Sources */,
 				51CE74751908CB3E00752660 /* RWAppDelegate.m in Sources */,
 				51CE74811908CB3E00752660 /* RWViewController.m in Sources */,
+				51CE74891908CEEF00752660 /* RWTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
